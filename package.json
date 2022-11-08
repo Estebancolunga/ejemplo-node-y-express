@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "un ejemplo de servidor para los chicos ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esteban Colunga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
